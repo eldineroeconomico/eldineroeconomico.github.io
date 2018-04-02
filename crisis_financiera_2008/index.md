@@ -33,3 +33,6 @@ opinan que esto fue lo que precipitó la abrupta caída del banco de inversión 
 mostraba particulares signos de debilidad. Sin embargo en marzo del 2008, en cuestión de días fue liquidado en 
 el mercado abierto y posteriormente en un acto sin precedentes, la Reserva Federal maniobró un 'rescate' de la 
 entidad, la cual terminó siendo vendida a precio de saldo a JP Morgan Chase.
+
+#### Fuentes
+[Scribd – La crisis financiera del 2008](https://www.scribd.com/document/318135069/La-Crisis-Financiera-Del-2008)
