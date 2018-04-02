@@ -21,16 +21,15 @@ buscando mantener el constante flujo de capital que los bonos generaban, comenza
  de interés cada vez más altas, cuando los estos últimos dejaron de pagar dichos créditos, los bonos fueron poco a poco
  disminuyendo su valor hasta que en 2008 la crisis provocó pánico en el público inversionista haciendo que 
 los mismos exigieran el pago de su inversión generando una crisis de liquidez en la economía. Las posibilidades 
-de una crisis financiera muy grave la había advertido ya Raghuram Rajan en 2005, en una publicación1​ presentada con
- motivo de un homenaje a Alan Greenspan.2​ "El golpe de la crisis financiera de 2008 puede fijarse oficialmente en 
-agosto de 2007. Fue cuando los bancos centrales tuvieron que intervenir para proporcionar liquidez", según George Soros.3
-​ Cierto es que los inicios de la crisis datan de mediados del año 2007, con los primeros síntomas de las 
+de una crisis financiera muy grave la había advertido ya Raghuram Rajan en 2005, en una publicación presentada con
+ motivo de un homenaje a Alan Greenspan. "El golpe de la crisis financiera de 2008 puede fijarse oficialmente en 
+agosto de 2007. Fue cuando los bancos centrales tuvieron que intervenir para proporcionar liquidez", según George Soros. Cierto es que los inicios de la crisis datan de mediados del año 2007, con los primeros síntomas de las 
 dificultades originadas por las hipotecas subprime. A fines de 2007 los mercados de valores de Estados Unidos 
-comenzaron una precipitada caída, que se acentuó gravemente en el comienzo del 2008.4​ La confluencia de otros 
+comenzaron una precipitada caída, que se acentuó gravemente en el comienzo del 2008. La confluencia de otros 
 eventos de particular nocividad para la economía estadounidense (subida de los precios del petróleo, aumento de la
 inflación, estancamiento del crédito), exageraron el pesimismo global sobre el futuro económico estadounidense, 
-hasta el punto de que la Bolsa de Valores de Nueva York sucumbía diariamente a 'rumores' financieros.5​ Muchos 
-opinan que esto fue lo que precipitó la abrupta caída del banco de inversión Bear Stearns,6​ que previamente no 
+hasta el punto de que la Bolsa de Valores de Nueva York sucumbía diariamente a 'rumores' financieros. Muchos 
+opinan que esto fue lo que precipitó la abrupta caída del banco de inversión Bear Stearns, que previamente no 
 mostraba particulares signos de debilidad. Sin embargo en marzo del 2008, en cuestión de días fue liquidado en 
 el mercado abierto y posteriormente en un acto sin precedentes, la Reserva Federal maniobró un 'rescate' de la 
-entidad,7​ la cual terminó siendo vendida a precio de saldo a JP Morgan Chase.8​
+entidad, la cual terminó siendo vendida a precio de saldo a JP Morgan Chase.
